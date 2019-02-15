@@ -1,0 +1,48 @@
+{
+  "basic":{
+    "image":"profile.png",
+    "name":"prasad",
+    "email":"gkdurgaprasad995@gmail.com",
+    "number":"+91-9100307187",
+    "addres":" surampalem"
+  },
+  "career":{
+    "info":"To purse a challenging career and be a part of progreesive"
+
+
+  },
+  "education":[
+    {
+      "institute":  " pragati engineering college",
+      "degree": " btech",
+      "passout":"2020"
+    },
+    {
+      "institute": " narayna jr college",
+      "degree": " btech",
+      "passout":"2016"
+
+    },
+    {
+      "institute":  " narayna school",
+      "degree": " btech",
+      "passout":"2014"
+    }
+  ],
+    "skills":[
+      {
+        "title":"Programming languages",
+        "content":["c","java"]
+      },
+      {
+        "title":"operating system",
+        "content":["windows","linux"]
+
+      },
+      {
+        "title":"Database",
+        "content":["mysql","oracle"]
+      }
+    ]
+
+}
